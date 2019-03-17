@@ -1,1 +1,175 @@
-efe
+[
+  {
+    "title":"الرئيسية",
+    "drawable":"ic_home",
+    "submenu":"التصنيفات",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"Categories",
+        "provider":"overview",
+        "arguments":[
+          "HomeOverview.json"
+        ]
+      }
+    ]
+  },
+
+    {
+    "title":"إنـمـي",
+    "drawable":"ic_anime",
+    "submenu":"",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"",
+        "provider":"overview",
+        "arguments":[
+          "https://raw.githubusercontent.com/Ahmadttta/attaaa/master/Newfolder/Categories/Anime.json"
+        ]
+      }
+    ]
+  },
+
+  {
+    "title":"مـمـيّـز",
+    "drawable":"ic_hot",
+    "submenu":"",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"",
+        "provider":"overview",
+        "arguments":[
+          "https://raw.githubusercontent.com/Ahmadttta/attaaa/master/Newfolder/Categories/Hot.json"
+        ]
+      }
+    ]
+  },
+
+  {
+    "title":"أكـشـن",
+    "drawable":"ic_action",
+    "submenu":"",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"",
+        "provider":"overview",
+        "arguments":[
+          "https://raw.githubusercontent.com/Ahmadttta/attaaa/master/Newfolder/Categories/Action.json"
+        ]
+      }
+    ]
+  },
+  {
+    "title":"مغامرات",
+    "drawable":"ic_adventure",
+    "submenu":"",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"",
+        "provider":"overview",
+        "arguments":[
+          "https://raw.githubusercontent.com/Ahmadttta/attaaa/master/Newfolder/Categories/Adventure.json"
+        ]
+      }
+    ]
+  },
+
+
+  {
+    "title":"كرتون بنات",
+    "drawable":"ic_girls",
+    "submenu":"",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"",
+        "provider":"overview",
+        "arguments":[
+          "https://raw.githubusercontent.com/Ahmadttta/attaaa/master/Newfolder/Categories/Girls.json"
+        ]
+      }
+    ]
+  },
+  {
+    "title":"قـديـم",
+    "drawable":"ic_old",
+    "submenu":"",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"",
+        "provider":"overview",
+        "arguments":[
+          "https://raw.githubusercontent.com/Ahmadttta/attaaa/master/Newfolder/Categories/old.json"
+        ]
+      }
+    ]
+  },
+
+  {
+    "title":"قصص وحكايات",
+    "drawable":"ic_story",
+    "submenu":"",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"",
+        "provider":"overview",
+        "arguments":[
+          "https://raw.githubusercontent.com/Ahmadttta/attaaa/master/Newfolder/Categories/Story.json"
+        ]
+      }
+    ]
+  },
+  {
+    "title":"ريـاضـة",
+    "drawable":"ic_sports",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"",
+        "provider":"overview",
+        "arguments":[
+          "https://raw.githubusercontent.com/Ahmadttta/attaaa/master/Newfolder/Categories/Sport.json"
+        ]
+      }
+    ]
+  },
+  {
+    "title":"كرتون للأطفال",
+    "drawable":"ic_kids",
+    "submenu":"",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"",
+        "provider":"overview",
+        "arguments":[
+          "https://raw.githubusercontent.com/Ahmadttta/attaaa/master/Newfolder/Categories/Kids.json"
+        ]
+      }
+    ]
+  },
+
+
+
+  {
+    "title":"التقييم والطلبات",
+    "drawable":"ic_rate",
+    "submenu":"التواصل معنا والتقييم",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"التقييم وطلب الكرتون",
+        "provider":"overview",
+        "arguments":[
+          "https://raw.githubusercontent.com/Ahmadttta/attaaa/master/Newfolder3/Categories/Settings.json"
+        ]
+      }
+    ]
+  }
+]
