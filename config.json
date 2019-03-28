@@ -9,7 +9,7 @@
         "title":"Categories",
         "provider":"overview",
         "arguments":[
-          "https://raw.githubusercontent.com/belganaj/animepro/master/HomeOverview.json1"
+          "https://raw.githubusercontent.com/belganaj/animepro/master/HomeOverview.json"
         ]
       }
     ]
